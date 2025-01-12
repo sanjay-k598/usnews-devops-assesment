@@ -34,4 +34,4 @@ Resources:
 
 ######Assumptions
 #1. Roles and acess required for Cloud Formation Template are already in place.
-#2. Source code is pushed by Jenkins pipeline to mentioned S3 buckte.
+#2. Source code is pushed by Jenkins pipeline to mentioned S3 bucket.
