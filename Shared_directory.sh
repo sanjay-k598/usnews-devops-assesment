@@ -53,11 +53,11 @@ done
 
 
 #####Assumptions#####
-1. All Developers are added to group "developers" after the creation.
-2. Shared_directory.sh Script has execute permissions
-3. Relative path shared directories are created under /opt
-4. Script can be tested with following command.
-$ ./Shared_directory.sh /home/sanjay/shared1  shared2
+#1. All Developers are added to group "developers" after the creation.
+#2. Shared_directory.sh Script has execute permissions
+#3. Relative path shared directories are created under /opt
+#4. Script can be tested with following command.
+#$ ./Shared_directory.sh /home/sanjay/shared1  shared2
 
 
 
